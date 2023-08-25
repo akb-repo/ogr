@@ -32,7 +32,7 @@ The OGR was originally designed as an entry for the OG Summer competition on [r/
 * 1× Badge – 6063 Aluminium
 * 1× Solder PCB – Black FR4 with green solder mask
 * 1× EVA plate foam
-* 4× [AKB Bumpons](../akb-repo/feet) – Injection molded silicone
+* 4× [AKB Bumpons](../feet) – Injection molded silicone
 * 1× Bottom sticker
 * 1× Split cable grommet
 * 10× Torx button screw M3×6mm in A2 stainless steel (plate)
